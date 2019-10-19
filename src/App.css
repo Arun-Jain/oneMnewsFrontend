@@ -20,3 +20,25 @@
 .App-link {
   color: #09d3ac;
 }
+body {
+  background-color: #f9f9f9;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.content {
+  flex: 1 0 auto;
+
+}
+
+.news-div {
+  display: flex;
+  flex-direction: row;
+  margin: 30px auto;
+  width: 96%;
+  align-items: flex-start;
+}
